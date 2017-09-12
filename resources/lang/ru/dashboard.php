@@ -15,18 +15,18 @@ return array(
 
 	'selectView' => 'Вид',
 
-	'liveView' => 'Live View',
+	'liveView' => 'Прямая трансляция',
 
-	'lastActivity' => 'Latest Activity',
+	'lastActivity' => 'Последняя активность',
 
-	'heatmap' => 'Heatmap',
+	'heatmap' => 'Тепловая карта',
 
 	'overview' => 'Обзор',
 
-	'hour' => 'Hour',
+	'hour' => 'По часам',
 
-  'average' => 'Average',
+  'average' => 'В среднем',
 
-	'weekday' => 'Weekday',
+	'weekday' => 'По неделям',
 
 );

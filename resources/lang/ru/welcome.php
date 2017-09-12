@@ -19,11 +19,11 @@ return array(
 
 	'introduction2' => 'After you\'ve finished this short installation, you\'ll be able to setup your own security system <b>with the camera of your choice</b>. Have fun! By the way here you got some links where you can find more information about us.',
 
-	'next' => 'Next',
+	'next' => 'Далее',
 
-	'skip' => 'Skip',
+	'skip' => 'Пропустить',
 
-	'finish' => 'Finish',
+	'finish' => 'Готово',
 
 	'setupProfile' => 'Setup your profile', 
 
@@ -33,13 +33,13 @@ return array(
 
 	'changeCredentials3' => 'By default the credentials to sign are set to username: <b>root</b> and password: <b>root</b>. Fill in the fields below to change these credentials, or leave them empty if you want to use the default credentials.',
 
-	'cloudStorage' => 'Cloud storage',
+	'cloudStorage' => 'Облачное хранилище',
 
 	'cloud1' => 'If you will install multiple Kerberos.io instances, and want to receive real-time notifications, <b>Kerberos.cloud</b> is what you need! With Kerberos.cloud you can easily monitor multiple instances with only one interface, which has exactly the same design as your local Kerberos.io instances. So nothing new, we just added a couple of useful features:',
 
 		'cloudReviewActivity' => 'Review your activity from anywhere in the world.',
 
-		'cloudNotifications' => 'Browser- and Pushbullet notifications.',
+		'cloudNotifications' => 'Уведомления через браузер или PushBullet.',
 
 		'cloudTimeline' => 'A timeline to see your activity at a glance.',
 
@@ -53,7 +53,7 @@ return array(
 
 	'language' => 'language',
 
-	'languageInfo' => 'Is your language missing or incomplete? Contribute your language to our Github repository.',
+	'languageInfo' => 'Нет вашего языка или перевод неточен? Помогите нам с переводом в нашем GitHub репозитории.',
 
 	'password' => 'password',
 
